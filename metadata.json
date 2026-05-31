@@ -1,0 +1,10 @@
+{
+  "name": "JOKELIX.movie",
+  "description": "A premium Netflix-style movie streaming platform powered by Casper Tech APIs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
